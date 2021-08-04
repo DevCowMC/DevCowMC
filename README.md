@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DevCowMC
+- 👀 I’m interested in Java 
+- 🌱 I’m currently learning PHP/HTML/CSS and Discord bot Development
+- 💞️ I’m looking to collaborate on Any minecraft project really
+- 📫 How to reach me Discord DevCow#0001
